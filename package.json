@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Node chat app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawanpokhriyal1/node-chat-app.git"
+  },
+  "author": "Pawan Pokhriyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawanpokhriyal1/node-chat-app/issues"
+  },
+  "homepage": "https://github.com/pawanpokhriyal1/node-chat-app#readme"
+}
